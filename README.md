@@ -33,5 +33,4 @@ I’ve been **coding for over 2 years**, and I love exploring all kinds of proje
 <!-- GitHub Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/vxnsin/vxnsin/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-This gif comes from: https://github.com/vxnsin
 </p>
