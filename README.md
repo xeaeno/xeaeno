@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/max1mde/fancy-readme-stats" target="_blank">
-      <img src="https://fancy-readme-stats.vercel.app/api?username=xeaeno&title=𝖝𝖊𝖆𝖊𝖓𝖔&theme=snow&dark_bg=3&hide_border=false&height=210&description=I%20watch%20the%20Snow&footer=@xeaeno&include_all_commits=true&update=2">
+      <img src="https://fancy-readme-stats.vercel.app/api?username=xeaeno&title=𝖝𝖊𝖆𝖊𝖓𝖔&theme=forest_winter&dark_bg=3&hide_border=false&height=210&description=I%20watch%20the%20Moon&footer=@xeaeno&include_all_commits=true&update=2">
   </a>
 </div>
 
