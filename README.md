@@ -24,9 +24,7 @@ I’ve been **coding for over 2 years**, and I love exploring all kinds of proje
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Projects+Store's)]()<br>
 <!--START_SECTION:recent_films-->
-- **House of Money**
-- **The Rookie**
-- **SWAT**
+- **Comming Soon**
 
 <!--END_SECTION:recent_films-->
 
