@@ -9,7 +9,7 @@
 ## 👨‍💻 Luca — Backend Engineer  
 
 I’m a **German backend-focused developer** with early exposure to **server architecture and distributed systems**.  
-My work primarily revolves around designing and implementing **scalable backend services, custom server logic, and performance-oriented systems**.  
+My focus is on building **scalable backend services, custom server logic, and performance-oriented systems**.  
 
 I specialize in:
 - **Backend system design & architecture**
@@ -17,7 +17,7 @@ I specialize in:
 - **Database-driven applications (SQL / NoSQL)**
 - **Custom tooling and plugin development**
 
-My approach is **pragmatic and performance-driven**, with a strong focus on **clean architecture, maintainability, and efficiency**.  
+I value **clean architecture, performance, and maintainability** in every system I build.  
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Tech+Stack)]()<br>
@@ -33,21 +33,12 @@ My approach is **pragmatic and performance-driven**, with a strong focus on **cl
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Projects)]()<br>
 
-## 📦 Selected Projects  
+## 📦 Current Status  
 
-### 🧩 AverageSMP — Custom Minecraft Server Network  
-**Website:** https://averagesmp.de  
+Currently, I’m **not maintaining any public projects**,  
+but I’m actively working on **private systems and experimenting with new backend concepts**.  
 
-A custom-built **Survival Multiplayer (SMP) server infrastructure**, focused on performance, scalability, and custom gameplay systems.  
-
-**Key aspects:**
-- Modular **plugin-based backend architecture**  
-- Custom **economy, progression, and gameplay systems**  
-- Integration with **databases (persistent player data, stats, systems)**  
-- Focus on **low-latency performance and server stability**  
-- Continuous development & system iteration  
-
-This project reflects my work in **real-world server environments**, combining **backend engineering with live system operation**.  
+💼 I’m **open to opportunities**, collaborations, and backend-related roles.  
 
 
 <!-- GitHub Contribution Snake -->
