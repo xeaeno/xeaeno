@@ -33,12 +33,12 @@ I value **clean architecture, performance, and maintainability** in every system
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Projects)]()<br>
 
-## 📦 Current Status  
+## 📦 Current Status
+**I am currently building and developing AverageSMP.de, a project I am passionate about.**
 
-Currently, I’m **not maintaining any public projects**,  
-but I’m actively working on **private systems and experimenting with new backend concepts**.  
+Alongside this, I am constantly experimenting with **new backend concepts and refining private systems.**
 
-💼 I’m **open to opportunities**, collaborations, and backend-related roles.  
+💼 I’m open to new opportunities, collaborations, and backend-related roles. 
 
 
 <!-- GitHub Contribution Snake -->
