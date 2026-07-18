@@ -37,8 +37,7 @@ I value **clean architecture, performance, and maintainability** in every system
 Currently leveling up my skills in **Lua & Backend Architecture** to build high-performance systems. 
 Moving away from solo-projects to contribute to bigger ecosystems.
 
-🛠️ **Tech Stack:**
-* **Focus:** FiveM (Lua/JS) & Roblox (Luau)
+* **Focus:** FiveM (Lua/JS)
 * **Learning:** Backend Logic, API Integration & Scalable Systems
 
 🔍 **Status:**
