@@ -33,12 +33,20 @@ I value **clean architecture, performance, and maintainability** in every system
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Projects)]()<br>
 
-## 📦 Current Status
-**I am currently building and developing AverageSMP.de, a project I am passionate about.**
+### 🚀 Current Focus
+Currently leveling up my skills in **Lua & Backend Architecture** to build high-performance systems. 
+Moving away from solo-projects to contribute to bigger ecosystems.
 
-Alongside this, I am constantly experimenting with **new backend concepts and refining private systems.**
+🛠️ **Tech Stack:**
+* **Focus:** FiveM (Lua/JS) & Roblox (Luau)
+* **Learning:** Backend Logic, API Integration & Scalable Systems
 
-💼 I’m open to new opportunities, collaborations, and backend-related roles. 
+🔍 **Status:**
+Looking for projects or teams where I can contribute and learn. 
+Passionate about backend-heavy roles and game system optimization.
+
+💬 **Let’s build something great together!**
+Feel free to reach out if you have a challenging project or need a motivated developer.
 
 
 <!-- GitHub Contribution Snake -->
